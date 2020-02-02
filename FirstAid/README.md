@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
->> cd FirstAid \n
+>> cd FirstAid
 
 >> flutter run
 
